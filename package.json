@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "0.1.0",
+  "description": "This moduleallows for a dynamic footer to be genrated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robert-K-Helton/my_npm_build.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Keith Helton <1r9k9h4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robert-K-Helton/my_npm_build/issues"
+  },
+  "homepage": "https://github.com/Robert-K-Helton/my_npm_build#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
