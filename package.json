@@ -1,5 +1,5 @@
 {
-  "name": "package.json",
+  "name": "my_npm_build_footer",
   "version": "0.1.0",
   "description": "This moduleallows for a dynamic footer to be genrated for JS applications with an updated year and name.",
   "main": "index.js",
